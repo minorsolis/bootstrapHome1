@@ -1,4 +1,4 @@
-# bootstrapInit
+# bootstrapHome1
 ======
 
 Bootstrap Template: quick start using `bootstrap`.
@@ -21,7 +21,7 @@ Bootstrap Template: quick start using `bootstrap`.
 
 ## Demo
 
-[http://minorsolis.github.io/bootstrapInit/](http://minorsolis.github.io/bootstrapInit/)
+[http://minorsolis.github.io/bootstrapHome1/](http://minorsolis.github.io/bootstrapHome1/)
 
 
 ## Tags (keywords)

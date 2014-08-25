@@ -1,0 +1,38 @@
+/* general styles */
+html, body { height: 100%;  width: 100%; font-size: 15px; }
+.borderRed{border: 1px solid red;}
+
+.navbar-brand{padding-left: 0px !important;}
+.navLink{float: right; margin-right: 30px;}
+.navbar-default{background:transparent !important; border: 0px;}
+.navbar-default li{background:transparent !important;}
+.navbar-left{margin-top: 25px;}
+.navbar-brand{margin-top: 10px;}
+.navbar li a{color:#333333;}
+.navbar li a:hover{color: #ea2203;}
+
+
+/* ------------------------- */
+#boxFirst1{min-height: 55px; background-color: #E5E5E5; padding-top: 15px;}
+#boxFirst1 i{font-size: 120%; margin-right: 10px;}
+
+/* ------------------------- */
+#boxFirst2{min-height: 120px; background-color: #192847;}
+#boxFirst2 a{color: #FFFFFF;}
+#boxFirst2 .topMenuLink{color: #FFFFFF; margin-top: 30px;}
+
+/* ------------------------- */
+#box2{clear:both;}
+
+/* ------------------------- */
+#box4{min-height: 250px;}
+
+/* ------------------------- */
+#box5{min-height:250px; margin-bottom: 15px;}
+
+/* ------------------------- */
+#boxLast1{background-color: #EEEEEE; min-height: 250px;}
+#boxLast1 ul{list-style: none; padding-left: 10px;}
+
+/* ------------------------- */
+#boxLast2{height: 80px; background-color: #444540;}
